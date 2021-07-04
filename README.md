@@ -1,0 +1,2 @@
+# postgraduate-D51
+I went to the library a little late today and learned some knowledge about Java overload and inheritance. I didn't expect to be the last person to go to the library. I still have a lot of things to write later, but I'm about to break the Internet. I'm a little flustered and may not finish writing. Today's Java project has not been finished and I'm being driven out. Now I'm typing fast and I feel it's too late, Programmers really hard ah, have to live to learn, there are many things to learn, looking for a job is really not easy ah!
